@@ -29,6 +29,7 @@ I build full-stack applications and AI-powered solutions using Java, Spring Boot
 
 **Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -66,9 +67,7 @@ I build full-stack applications and AI-powered solutions using Java, Spring Boot
 AI-powered platform that identifies skill gaps against job-role requirements and generates personalized learning recommendations using RAG over role/skill data.
 `React` `Spring Boot 3` `Java 21` `MySQL` `Gemini API` `Qdrant`
 
-#### 📊 [FinSight AI](https://github.com/GITHUB_USERNAME_PLACEHOLDER/finsight-ai)
-Financial research agent that retrieves and reasons over financial documents using vector search — scoped from a six-agent design down to a shippable solo MVP.
-`Spring Boot` `React` `MongoDB Atlas Vector Search` `Gemini` `Groq`
+
 
 #### 💊 [Real-Time Drug Supply Management System](https://github.com/GITHUB_USERNAME_PLACEHOLDER/drug-supply-management)
 Real-time platform for medicine inventory tracking, low-stock alerts, and supply coordination across pharmacies and hospitals.
