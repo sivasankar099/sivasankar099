@@ -1,102 +1,355 @@
-<h1 align="center">Hi, I'm Sivasankar 👋</h1>
-<h3 align="center">Java Full Stack Developer · AI Application Developer</h3>
+<h1 align="center">Hi 👋, I'm Sivasankar</h1>
+
+<h3 align="center">
+Java Full Stack Developer • AI Application Developer • Problem Solver
+</h3>
 
 <p align="center">
-I build full-stack applications and AI-powered solutions using Java, Spring Boot, React, databases, and modern LLM/RAG technologies.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E8A33D&center=true&vCenter=true&width=700&lines=Building+Java+%26+Spring+Boot+Applications;Exploring+AI+%2B+RAG+%2B+Vector+Databases;Solving+Data+Structures+%26+Algorithms;Turning+Ideas+Into+Real-World+Software" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sivasankar-s-8722a0374/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:sivasankarsargurunathan@gmail.com"><img src="https://img.shields.io/badge/Email-E8A33D?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/sivacode10/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sivasankar-s-8722a0374/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sivasankarsargurunathan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-E8A33D?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/sivacode10/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://github.com/sivasankar099">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 Final-year Computer Science & Engineering student, VSB Engineering College (CGPA 8.39)
-- ☕ Focused on Java and Spring Boot for backend development
-- ⚛️ Building interfaces with React.js
-- 🤖 Exploring AI application development — LLMs, RAG, and vector databases
-- 🗄️ Working across SQL and vector/NoSQL data stores
-- 🧠 Strengthening Data Structures & Algorithms for placement prep
-- 🚀 Interested in building real-world, scalable applications end to end
+🎓 Computer Science & Engineering student with a strong interest in **backend development, AI applications, and problem solving**.
 
----
+☕ I primarily work with **Java and Spring Boot** to design backend systems and REST APIs.
 
-### 🛠️ Tech Stack
+⚛️ I use **React.js** to build responsive and user-friendly frontend applications.
 
-**Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+🤖 Currently exploring **Generative AI, RAG architectures, LLM applications, embeddings, and vector databases**.
 
-**Backend**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=flat&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+🧠 Actively strengthening my **Data Structures & Algorithms** and problem-solving skills for software engineering placements.
 
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-**Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat&logo=mongodb&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white)
-
-**AI / LLM**
-![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=googlegemini&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat)
-![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=flat)
-
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+🚀 My goal is to build **scalable, intelligent, and real-world applications** that combine strong software engineering with modern AI technologies.
 
 ---
 
-### 🚀 Featured Projects
+## 🧭 My Development Journey
 
-#### 🧠 [SkillGap AI](https://github.com/GITHUB_USERNAME_PLACEHOLDER/skillgap-ai)
-AI-powered platform that identifies skill gaps against job-role requirements and generates personalized learning recommendations using RAG over role/skill data.
-`React` `Spring Boot 3` `Java 21` `MySQL` `Gemini API` `Qdrant`
+```text
+Java
+  │
+  ├── Object-Oriented Programming
+  ├── Collections
+  ├── Exception Handling
+  └── JDBC
+        │
+        ▼
+Spring Boot
+  │
+  ├── REST APIs
+  ├── Spring Security
+  ├── JWT Authentication
+  └── Backend Architecture
+        │
+        ▼
+Databases
+  │
+  ├── MySQL
+  ├── MongoDB
+  └── Vector Databases
+        │
+        ▼
+AI Applications
+  │
+  ├── LLM APIs
+  ├── Embeddings
+  ├── RAG
+  └── AI Agents
+        │
+        ▼
+Full-Stack Applications
+  │
+  ├── React.js
+  ├── REST Integration
+  └── Real-World Systems
+```
 
+---
 
+## 🛠️ Tech Stack
 
-#### 💊 [Real-Time Drug Supply Management System](https://github.com/GITHUB_USERNAME_PLACEHOLDER/drug-supply-management)
-Real-time platform for medicine inventory tracking, low-stock alerts, and supply coordination across pharmacies and hospitals.
-`React` `Spring Boot` `MySQL` `JWT`
+### 💻 Languages
 
-#### 🎓 [Student Management System](https://github.com/GITHUB_USERNAME_PLACEHOLDER/student-management-system)
-Core Java + JDBC + MySQL application for managing student records with full CRUD operations.
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### ⚙️ Backend & APIs
+
+<p>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge"/>
+</p>
+
+### 🤖 AI & LLM
+
+<p>
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector_Database-6C5CE7?style=for-the-badge"/>
+</p>
+
+### 🧰 Tools & Technologies
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 SkillGap AI
+
+AI-powered career intelligence platform that analyzes a user's current skills against target job roles and identifies skill gaps.
+
+**Key Features**
+
+* 📄 Resume / skill analysis
+* 🎯 Job-role skill matching
+* 🧠 RAG-based recommendations
+* 🤖 LLM-powered learning guidance
+* 🔎 Vector similarity search
+
+**Stack**
+
+`Java` `Spring Boot` `React` `MySQL` `Gemini` `Qdrant` `RAG`
+
+</td>
+
+<td width="50%">
+
+### 💊 Real-Time Drug Supply Management
+
+A real-time platform designed to monitor medicine inventory and improve supply coordination between pharmacies and healthcare organizations.
+
+**Key Features**
+
+* 📦 Inventory monitoring
+* 🚨 Low-stock alerts
+* 🔐 JWT authentication
+* 🔄 Real-time updates
+* 🏥 Supply coordination
+
+**Stack**
+
+`Java` `Spring Boot` `React` `MySQL` `JWT`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎓 Student Management System
+
+A Core Java application built using JDBC and MySQL to manage student records through CRUD operations.
+
+**Key Features**
+
+* ➕ Add students
+* 🔍 Search records
+* ✏️ Update details
+* 🗑️ Delete records
+* 🗄️ JDBC database integration
+
+**Stack**
+
 `Java` `JDBC` `MySQL`
 
+</td>
+
+<td width="50%">
+
+### 🛡️ Insure AI Policy System
+
+A full-stack insurance application developed during my full-stack development internship.
+
+**Key Technologies**
+
+* ⚛️ React.js frontend
+* ☕ Spring Boot backend
+* 🗄️ SQL database
+* 🔗 REST API integration
+
+**Focus**
+
+Building a structured full-stack application with modern frontend and backend technologies.
+
+</td>
+</tr>
+</table>
+
 ---
 
-### 📚 Currently Learning
+## 🏗️ What I Like Building
 
-Advanced Spring Boot · AI Application Development · RAG Architecture · Vector Databases · System Design · Data Structures & Algorithms · Cloud & Deployment
+| Area               | What I Explore                                |
+| ------------------ | --------------------------------------------- |
+| ☕ Backend          | Java, Spring Boot, REST APIs                  |
+| ⚛️ Frontend        | React.js, responsive UI                       |
+| 🤖 AI              | LLM applications, Gemini, prompt engineering  |
+| 🧠 RAG             | Embeddings, semantic search, vector databases |
+| 🗄️ Data           | MySQL, MongoDB, vector storage                |
+| 🔐 Security        | JWT authentication and authorization          |
+| 🧩 Problem Solving | DSA, algorithms, logical thinking             |
+| 🐳 Deployment      | Docker and application containerization       |
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sivasankar099&show_icons=true&theme=transparent&hide_border=true&title_color=E8A33D&icon_color=5AAFA8&text_color=C9C2B2" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivasankar099&layout=compact&theme=transparent&hide_border=true&title_color=E8A33D&text_color=C9C2B2" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sivasankar099&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivasankar099&layout=compact&theme=transparent&hide_border=true" height="180"/>
 </p>
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivasankar099&theme=transparent&hide_border=true&ring=E8A33D&fire=E8A33D&currStreakLabel=E8A33D" />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivasankar099&theme=transparent&hide_border=true" height="180"/>
 </p>
 
 ---
 
-### 🤝 Let's Connect
+## 📈 Contribution Activity
 
-[LinkedIn](https://www.linkedin.com/in/sivasankar-s-8722a0374/) · [GitHub](https://github.com/sivasankar099) · [LeetCode](https://leetcode.com/u/sivacode10/) · [Email](mailto:sivasankarsargurunathan@gmail.com)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sivasankar099&theme=github-compact&hide_border=true&area=true" width="95%"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sivasankar099/sivasankar099/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```text
+[████████████████████] Java & Spring Boot
+[██████████████████░░] Data Structures & Algorithms
+[████████████████░░░░] AI Application Development
+[██████████████░░░░░░] RAG & Vector Databases
+[████████████░░░░░░░░] System Design
+[██████████░░░░░░░░░░] Cloud & Deployment
+```
+
+---
+
+## 📚 Currently Learning
+
+```text
+Spring Boot Advanced Concepts
+        ↓
+System Design Fundamentals
+        ↓
+Data Structures & Algorithms
+        ↓
+AI Application Development
+        ↓
+RAG & Vector Database Architecture
+        ↓
+Cloud & Deployment
+```
+
+---
+
+## 🧠 Problem Solving
+
+I regularly practice coding problems to improve my:
+
+* Data Structures
+* Algorithms
+* Time & Space Complexity
+* Problem-Solving Patterns
+* Logical Thinking
+* Interview Readiness
+
+<p align="center">
+  <a href="https://leetcode.com/u/sivacode10/">
+    <img src="https://img.shields.io/badge/Practice_on-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📌 My Development Philosophy
+
+> **Learn → Build → Break → Debug → Improve → Repeat**
+
+I believe the best way to learn software development is by building real projects, understanding how systems work internally, solving problems, and continuously improving.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sivasankar-s-8722a0374/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sivasankarsargurunathan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-E8A33D?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/sivacode10/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects interesting, feel free to explore my repositories!
+</p>
+
+---
+
+<p align="center">
+  <i>Building today. Learning every day. Engineering the future. 🚀</i>
+</p>
