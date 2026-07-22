@@ -248,10 +248,7 @@ Building a structured full-stack application with modern frontend and backend te
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sivasankar099&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivasankar099&layout=compact&theme=transparent&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivasankar099&theme=transparent&hide_border=true" height="180"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivasankar099&theme=transparent&hide_border=true" height="180"/>
 </p>
 
 ---
