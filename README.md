@@ -6,9 +6,9 @@ I build full-stack applications and AI-powered solutions using Java, Spring Boot
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/LINKEDIN_USERNAME_PLACEHOLDER"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:EMAIL_PLACEHOLDER@example.com"><img src="https://img.shields.io/badge/Email-E8A33D?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/LEETCODE_USERNAME_PLACEHOLDER"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sivasankar-s-8722a0374/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sivasankarsargurunathan@gmail.com"><img src="https://img.shields.io/badge/Email-E8A33D?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/sivacode10/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
 </p>
 
 ---
@@ -88,15 +88,15 @@ Advanced Spring Boot · AI Application Development · RAG Architecture · Vector
 ### 📊 GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GITHUB_USERNAME_PLACEHOLDER&show_icons=true&theme=transparent&hide_border=true&title_color=E8A33D&icon_color=5AAFA8&text_color=C9C2B2" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GITHUB_USERNAME_PLACEHOLDER&layout=compact&theme=transparent&hide_border=true&title_color=E8A33D&text_color=C9C2B2" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sivasankar099&show_icons=true&theme=transparent&hide_border=true&title_color=E8A33D&icon_color=5AAFA8&text_color=C9C2B2" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivasankar099&layout=compact&theme=transparent&hide_border=true&title_color=E8A33D&text_color=C9C2B2" />
 </p>
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GITHUB_USERNAME_PLACEHOLDER&theme=transparent&hide_border=true&ring=E8A33D&fire=E8A33D&currStreakLabel=E8A33D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivasankar099&theme=transparent&hide_border=true&ring=E8A33D&fire=E8A33D&currStreakLabel=E8A33D" />
 </p>
 
 ---
 
 ### 🤝 Let's Connect
 
-[LinkedIn](https://linkedin.com/in/LINKEDIN_USERNAME_PLACEHOLDER) · [GitHub](https://github.com/GITHUB_USERNAME_PLACEHOLDER) · [LeetCode](https://leetcode.com/LEETCODE_USERNAME_PLACEHOLDER) · [Email](mailto:EMAIL_PLACEHOLDER@example.com)
+[LinkedIn](https://www.linkedin.com/in/sivasankar-s-8722a0374/) · [GitHub](https://github.com/sivasankar099) · [LeetCode](https://leetcode.com/u/sivacode10/) · [Email](mailto:sivasankarsargurunathan@gmail.com)
