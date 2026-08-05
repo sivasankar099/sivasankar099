@@ -90,7 +90,6 @@ Full-Stack Applications
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -207,7 +206,7 @@ A Core Java application built using JDBC and MySQL to manage student records thr
 
 <td width="50%">
 
-### 🛡️ Insure AI Policy System
+### 🛡️ Insurance AI Policy System
 
 A full-stack insurance application developed during my full-stack development internship.
 
@@ -246,9 +245,9 @@ Building a structured full-stack application with modern frontend and backend te
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sivasankar099&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivasankar099&layout=compact&theme=transparent&hide_border=true" height="180"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivasankar099&theme=transparent&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sivasankar099&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&cache_seconds=86400" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sivasankar099&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" height="180"/>
+   <img src="https://streak-stats.demolab.com/?user=sivasankar099&theme=transparent&hide_border=true&cache_seconds=86400" height="180"/>
 </p>
 
 ---
